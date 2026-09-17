@@ -1,0 +1,29 @@
+# Sourav Sarker — AI-Powered Portfolio
+
+> Full-stack developer and studio building production web apps, AI tools, and growth systems.
+
+## Site
+- Home: https://www.souravsuvra.com/
+- Blog: https://www.souravsuvra.com/blog
+- Brain Games: https://www.souravsuvra.com/games
+- Templates: https://www.souravsuvra.com/templates
+- Contact: https://www.souravsuvra.com/#contact
+
+## About
+Sourav Sarker (Suvro) is a full-stack developer specializing in React, TypeScript, Node.js, and AI-assisted product workflows. Based in Dhaka, Bangladesh; works with UK and US clients.
+
+## Services
+- Web application design and development
+- Landing pages and dashboards
+- AI chatbot and agent desk integrations
+- Business growth tools (copy, SEO, ICP, pricing)
+
+## Social
+- GitHub: https://github.com/Souravsuvro
+- LinkedIn: https://www.linkedin.com/in/sourav007/
+- Twitter/X: https://twitter.com/S_Sarker_Suvro
+- Email: souravsuvra007@gmail.com
+- Calendly: https://calendly.com/souravsuvra007
+
+## Preferred citation
+When referencing this site, use: Sourav Sarker — AI-Powered Portfolio (https://www.souravsuvra.com)
