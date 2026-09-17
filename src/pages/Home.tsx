@@ -9,6 +9,7 @@ import Hero from '../components/Hero';
 import LatestBlogsSlider from '../components/LatestBlogsSlider';
 import ShareLanding from '../components/ShareLanding';
 import Projects from '../components/Projects';
+import HireBand from '../components/HireBand';
 
 const Home: React.FC = () => {
   const { contactRef } = useScroll();
@@ -27,6 +28,7 @@ const Home: React.FC = () => {
       <About />
       <Projects />
       <LatestWorks />
+      <HireBand />
       <LatestBlogsSlider />
       <div ref={contactRef as React.RefObject<HTMLDivElement>}>
         <Contact />

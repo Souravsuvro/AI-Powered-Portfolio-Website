@@ -1,11 +1,10 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaUpwork } from 'react-icons/fa6';
-import { FaLinkedin, FaCalendarAlt } from 'react-icons/fa';
+import { FaLinkedin, FaCalendarAlt, FaBriefcase } from 'react-icons/fa';
 
 const HireBand: React.FC = () => {
   return (
-    <section className="py-16 px-4">
+    <section className="py-16 px-4" id="hire">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -33,7 +32,7 @@ const HireBand: React.FC = () => {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-xl border border-green-500/50 bg-green-500/10 hover:bg-green-500/20 px-6 py-3 font-semibold text-green-300 transition"
           >
-            <FaUpwork className="text-xl" /> Hire on Upwork
+            <FaBriefcase /> Hire on Upwork
           </a>
           <a
             href="https://www.linkedin.com/in/sourav007/"
